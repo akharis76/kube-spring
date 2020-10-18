@@ -1,6 +1,6 @@
 pipeline{
     environment {
-    registry = "Your Docker Hub Credentials"
+    registry = "akharis76/spring-repo"
     }
   agent any
   stages {
